@@ -1,8 +1,8 @@
-# Skills 
+# Skills
 
 Below is a _list_ of my **technical skills**:
 
-## Programming languages 
+## Programming languages
 - Python
 - PHP
 - Ajax
@@ -10,7 +10,8 @@ Below is a _list_ of my **technical skills**:
 - SQL
 - HTML
 - CSS
+- JavaScript
 
-## Collaboration 
+## Collaboration
 - GitHub
-- Git 
+- Git
